@@ -7,3 +7,5 @@ websocket网络五子棋对战平台
 ![Alt text](https://github.com/vickyhwj/wiziqi1/raw/master/ssmws/3.png)
 ![Alt text](https://github.com/vickyhwj/wiziqi1/raw/master/ssmws/4.png)
 ![Alt text](https://github.com/vickyhwj/wiziqi1/raw/master/ssmws/5.png)
+![Alt text](https://github.com/vickyhwj/wiziqi1/raw/master/ssmws/6.png)
+![Alt text](https://github.com/vickyhwj/wiziqi1/raw/master/ssmws/7.png)
